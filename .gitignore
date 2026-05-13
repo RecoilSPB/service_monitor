@@ -1,0 +1,12 @@
+/.idea/
+*.iml
+*.ipr
+/target/
+/*/target/
+/log/
+/Tomcat/
+/logs/
+/cda-validator
+/semd_generator/logs
+/semd_generator/diff_output
+*.~*
